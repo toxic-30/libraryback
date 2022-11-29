@@ -1,0 +1,6 @@
+jdbc:sqlserver://tshirt.database.windows.net:1433;database=libstore;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+
+user=tshirt@tshirt;password={your_password_here}
+
+
+jdbc:sqlserver://tshirt.database.windows.net:1433;database=libstore;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
